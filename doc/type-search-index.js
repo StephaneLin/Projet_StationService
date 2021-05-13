@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"stations_essence","l":"DAOAll"},{"p":"stations_essence","l":"LectureData"},{"p":"stations_essence","l":"Markers"}]
