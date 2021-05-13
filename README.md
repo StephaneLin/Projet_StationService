@@ -13,3 +13,5 @@ Vous aurez besoin de Java:
 * [Eclipse IDE](https://www.eclipse.org/) - éditeur de texte
 * [Bootstrap](https://getbootstrap.com/) - Framework CSS
 * [Datatable](https://datatables.net/)
+
+:warning: la clé d'accès à GoogleMap a expiré alors la carte ne s'affiche plus
